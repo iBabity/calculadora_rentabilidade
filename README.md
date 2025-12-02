@@ -77,5 +77,3 @@ preços de venda
 perdas operacionais
 Entregar ao gestor um painel completo e confiável, que mostra exatamente quanto cada corte rende, qual o lucro real e qual a rentabilidade da operação como um todo.
 
-
-É só dizer qual formato você quer.

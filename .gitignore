@@ -1,0 +1,17 @@
+# Flutter #
+.classpath
+.project
+.settings/
+.packages
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.idea
+android/local.properties
+.flutter-plugins
+.macos
+linux/
+windows/
+web/
